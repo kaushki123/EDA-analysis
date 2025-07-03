@@ -82,6 +82,27 @@ to allow temporal analysis.
 * Many titles belong to multiple genres (e.g., “Dramas, International Movies”), so genre-based analysis used string splitting and grouping.
 
 
+ 📈Visualizations Used  :- 
+ 
+ 📦 Bar Plot — to compare number of Movies vs TV Shows
+ 
+ 🌍 Pie Chart — to show top countries contributing content
+ 
+ 📅 Line Chart — for content added per year (timeline trend)
+ 
+ 🗓️ Heatmap — to display missing values (null data visualization)
+ 
+ 🧮 Count Plot — for rating distribution (e.g., TV-MA, PG-13)
+ 
+ 🧾 Histogram — for duration distribution of movies/shows
+ 
+ 🎭 Facet Grid / Bar Plot — for visualizing content by genre and type
+ 
+ 📊 Stacked Bar Chart — for comparing Movies vs TV Shows across countries
+ 
+ 🔤 Word Cloud (optional) — if you visualized frequent keywords from descriptions
+
+
 📈 Summary:-
 
 - The majority of content on Netflix is Movies.
